@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">I'm Junior Frontend Developer, and school student</h3>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **piotr@mikolajczuk.in**
 
