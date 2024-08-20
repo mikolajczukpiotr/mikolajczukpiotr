@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
-<h3 align="center">I'm Junior Frontend Developer, and school student</h3>
+<h3 align="center">I'm Junior Frontend Developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native, Next.js, Node.js**
 
 - 📫 How to reach me **piotr@mikolajczuk.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/divensek" target="blank" color="blue"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="divensek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mikolajczukpiotr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="piotr mikołajczuk" height="30" width="40" /></a>
-<a href="https://facebook.com/piotrek.mikolajczuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="piotr mikołajczuk" height="30" width="40" /></a>
-<a href="https://instagram.com/dvnsky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dvnsky" height="30" width="40" /></a>
+<a href="https://twitter.com/divensek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="divensek" height="30" width="40" style="fill: #0000FF;"/></a>
+<a href="https://linkedin.com/in/mikolajczukpiotr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="piotr mikołajczuk" height="30" width="40" style="fill: #0000FF;"/></a>
+<a href="https://facebook.com/piotrek.mikolajczuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="piotr mikołajczuk" height="30" width="40" style="fill: #0000FF;"/></a>
+<a href="https://instagram.com/dvnsky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dvnsky" height="30" width="40" style="fill: #0000FF;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
