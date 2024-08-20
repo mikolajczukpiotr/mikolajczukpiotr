@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/divensek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="divensek" height="30" width="40" /></a>
+<a href="https://twitter.com/divensek" target="blank" color="blue"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="divensek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mikolajczukpiotr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="piotr mikołajczuk" height="30" width="40" /></a>
 <a href="https://facebook.com/piotrek.mikolajczuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="piotr mikołajczuk" height="30" width="40" /></a>
 <a href="https://instagram.com/dvnsky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dvnsky" height="30" width="40" /></a>
