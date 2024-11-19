@@ -3,7 +3,7 @@
 
 - 🚀 I specialize in developing dynamic, user-focused web and mobile applications using **React**, **React Native**, **Vue.js**, **Next.js** and **TypeScript**.
 
-- 🌱 Actively developing expertise in Next.js, while expanding my skills in PHP and Golang to tackle diverse backend and cross-platform challenges.
+- 🌱 Actively developing expertise in Node.js to tackle diverse backend and cross-platform challenges.
 
 - 💡 Passionate about crafting intuitive, scalable, and maintainable solutions for modern platforms, ensuring optimal performance and user experience.
 
@@ -24,8 +24,6 @@
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 &nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-&nbsp;&nbsp;
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/> </a> 
 &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -38,7 +36,7 @@
 &nbsp;&nbsp;
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 &nbsp;&nbsp;
-<a href="https://tanstack.com/query/latest" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-query" width="40" height="40"/> </a> 
+<a href="https://tanstack.com/query/latest" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react-query" width="40" height="40"/> </a> 
 &nbsp;&nbsp;
 <a href="https://jestjs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a> 
 &nbsp;&nbsp;
